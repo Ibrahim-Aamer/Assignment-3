@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.example.assignment3/com.example.assignment3.MainProgram</mainClass>
+                            <mainClass>com.example.assignment3/com.example.assignment3.ThreadProgram</mainClass>
                         </configuration>
                     </execution>
                 </executions>
